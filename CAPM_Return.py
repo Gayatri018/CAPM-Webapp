@@ -4,6 +4,7 @@ import yfinance as yf
 import datetime
 import pandas_datareader.data as web
 import capm_functions
+import pages.Calculate_Beta
 
 st.set_page_config(page_title = "CAPM", 
                    page_icon = "chart_with_upward_trend",
@@ -115,5 +116,6 @@ try:
     with col2: 
         st.markdown('### Calculated Return using CAPM')
         st.dataframe(return_df, use_container_width=True)
+
 except:
     st.write("Please select valid input")
