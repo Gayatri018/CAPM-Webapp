@@ -70,6 +70,6 @@ Beta is a measure of how a stock moves **relative to the market**. It quantifies
 ---
 
 ### 3. Beta Sensitivity Explanation Page
-<img src="images/capm3.png" alt="Beta Page" style="border: 2px solid #ddd; border-radius: 10px; padding: 5px; width: 100%; max-width: 700px;" />
+<img src="images/capm3.png" alt="Beta Page" style="border: 6px solid #ddd; border-radius: 28px; padding: 5px; width: 100%; max-width: 700px;" />
 
 ---
