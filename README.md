@@ -58,16 +58,18 @@ Beta is a measure of how a stock moves **relative to the market**. It quantifies
 ## 🧪 Application Screenshots
 
 ### 1. CAPM Return Calculator Page
-![CAPM Page](images/capm1.png)
+<!-- Image with border and rounded corners -->
+<img src="images/capm1.png" alt="CAPM Page" style="border: 2px solid #ddd; border-radius: 10px; padding: 5px; width: 100%; max-width: 700px;" />
+
 
 ---
 
 ### 2. Risk-Free & Market Return Explanation Page
-![Risk Free Return Page](images/capm2.png)
+<img src="images/capm2.png" alt="Risk Free Return Page" style="border: 2px solid #ddd; border-radius: 10px; padding: 5px; width: 100%; max-width: 700px;" />
 
 ---
 
 ### 3. Beta Sensitivity Explanation Page
-![Beta Page](images/capm3.png)
+<img src="images/capm3.png" alt="Beta Page" style="border: 2px solid #ddd; border-radius: 10px; padding: 5px; width: 100%; max-width: 700px;" />
 
 ---
